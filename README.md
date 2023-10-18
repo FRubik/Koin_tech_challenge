@@ -15,7 +15,7 @@ Esse projeto é a resolução do case de para a vaga de Data Science da Koin
 ### Instruções
 
 - Instalar: `pip install -r requirements.txt`
-- Executar: `jupyter Maringa.ipynb`
+- Executar: `koin.ipynb`
 
 ### Dicas úteis
 
